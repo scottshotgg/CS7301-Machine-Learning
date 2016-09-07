@@ -1,0 +1,3 @@
+http://www.ml.uni-saarland.de/code/GraphDemo/DemoSpectralClustering.htm
+http://www.svms.org/
+http://www.cs.cmu.edu/~awm/10701/
